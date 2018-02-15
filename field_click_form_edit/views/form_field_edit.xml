@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+    <data>
+        <template id="assets_backend_form_edit" name="form edit" inherit_id="web.assets_backend">
+            <xpath expr=".">
+                <script type="application/javascript" src="/field_click_form_edit/static/src/js/field_edit.js"/>
+            </xpath>
+        </template>
+    </data>
+</odoo>
