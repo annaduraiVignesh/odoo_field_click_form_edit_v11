@@ -7,7 +7,6 @@
     'category': 'Extra Tools',
     'summary': 'Click over the field and edit the form fields without clicking EDIT button',
     'version': '11.0.1.0.0',
-    'description': """Edit fields without clicking edit""",
     'author': " Vignesh ",
     'website': "viki2.odoo.com",
     'license': 'AGPL-3',
